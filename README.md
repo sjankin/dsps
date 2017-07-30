@@ -1,7 +1,8 @@
 # Data Science in Public Sector #
 
 
-#### Big Data and Analytics Summer School BD009 Data science for public policy
+### Big Data and Analytics Summer School 
+#### BD009 Data science for public policy
 
 [Slava Mikhaylov](s.mikhaylov@essex.ac.uk), Institute for Analytics and Data Science, Department of Computer Science and Electronic Engineering, Department of Government, University of Essex  
 
