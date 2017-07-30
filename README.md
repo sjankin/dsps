@@ -47,19 +47,9 @@ You can also subscribe to the repository if you have [a GitHub account](https://
 
 ***
 
-#### __*1: Overview and introduction to data science*__
+#### __*1 (9-10.30): Overview and introduction*__
 
-* [Notes](module1/overview.pdf)
-
-
-
-***
-
-#### __*2: Replicability in social science*__  
-R Markdown, R Notebooks, GitHub.
-
-
-
+* [Notes](module1/DSPP.pdf)
 * [R Markdown](http://rmarkdown.rstudio.com)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [GitHub and RStudio: Hadley Wickham book _R packages_, chapter "Git and GitHub"](http://r-pkgs.had.co.nz/git.html)
@@ -70,7 +60,17 @@ Examples:
 
 ***
 
-#### __*3: Text scaling models*__ 
+#### __*2 (11-12.30): NLP in public policy analysis*__
+text as data and patterns of political activity
+
+* [Notes](module2/NLP in public policy analysis.pdf)
+* [Analysing textual patterns](module2/Lancet.nb.html)
+* [Text similarity](module2/EUnotebook.nb.html)
+* [UN General Debate Corpus](http://dx.doi.org/10.7910/DVN/0TJX8Y)
+
+***
+
+#### __*3 (1.30-3): Text scaling models*__ 
 Naive Bayes, PCA, CA.
 
 
@@ -104,31 +104,7 @@ Models." _Annual Review of Statistics and Its Application_, 1: 203-232.
 
 ***
 
-#### __*5: Word embeddings*__
-word2vec, text2vec.
+#### __*4 (3.30-5): Sample project and discussion*__
 
-* [Notes](module5/word_embedding.pdf)
-
-#### Background
-* Mikolov, Tomas et al. "Efficient Estimation of Word Representations in Vector Space."
-* Goldberg, Yoav and Omer Levy "word2vec Explained: Deriving Mikolov et al.'s Negative-
-Sampling Word-Embedding Method."
-* Mikolov, Tomas; Sutskever, Ilya; Chen, Kai; Corrado, Greg S.; Dean, Jeff (2013). "Distributed representations of words and phrases and their compositionality." _Advances in Neural Information Processing Systems_.
-* Levy, Omer; Goldberg, Yoav; Dagan, Ido (2015). "Improving Distributional Similarity with Lessons Learned from Word Embeddings." _Transactions of the Association for Computational Linguistics_.
-* Pennington et al. "GloVe: Global Vectors for Word Representation."
-* Huang et al. "Improving Word Representations via Global Context and Multiple Word Prototypes."
-
-***
-
-#### __*6: Textual patterns and quality assessment*__
-keyness, similarity, distance, readability
-
-* [Analysing textual patterns](module6/Lancet.nb.html)
-* [Text similarity](module6/EUnotebook.nb.html)
-
-***
-
-#### __*7: Project discussion*__
-
-* Prepare a presentation (using R Markdown) on a project that uses NLP. (Optional, group work.)
+* Prepare a presentation (RMarkdown, Keynote, PowerPoint) on a project that uses NLP in public sector. (Optional, group work.)
 * Presentation and discussion of each project.
