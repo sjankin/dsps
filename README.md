@@ -63,7 +63,7 @@ Examples:
 #### __*2 (11-12.30): NLP in public policy analysis*__
 text as data and patterns of political activity
 
-* [Notes](module2/NLP in public policy analysis.pdf)
+* [Notes](module2/NLP_public_policy.pdf)
 * [Analysing textual patterns](module2/Lancet.nb.html)
 * [Text similarity](module2/EUnotebook.nb.html)
 * [UN General Debate Corpus](http://dx.doi.org/10.7910/DVN/0TJX8Y)
