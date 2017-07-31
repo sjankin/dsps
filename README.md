@@ -70,14 +70,17 @@ text as data and patterns of political activity
 
 ***
 
-#### __*3 (1.30-3): Text scaling models*__ 
+#### __*3 (1.30-3): Text models*__ 
 Naive Bayes, PCA, CA.
 
 
-* [Notes](module3/text_scaling.pdf)
+* [Notes general text models](module3/text_scaling.pdf)
 * [Text scaling](module3/RAP.nb.html)
+* [Notes topic models](module3/topic_models.pdf)
+* [Analysing topical structure in EU reports](module3/notebook.nb.html)
 
-#### Background
+
+#### Background General text models
 * Laver, Michael, Kenneth Benoit and John Garry. 2003. "Extracting Policy Positions from Political Texts Using Words as Data." _American Political Science Review_ 97: 311-331.
 * Lowe, William. 2008. "Understanding Wordscores." _Political Analysis_ 16(4): 356-371.
 * Greenacre, M. (2007). _Correspondence Analysis in Practice_, 2nd edition. Appendix A & B.
@@ -85,16 +88,7 @@ Naive Bayes, PCA, CA.
 * Herzog, A. and K. Benoit (2015), "The most unkindest cuts: Speaker selection and expressed government dissent during economic crisis." _Journal of Politics_, 77(4):1157–1175.
 
 
-
-***
-
-#### __*4: Topic models*__ 
-LDA, CTM, STM.
-
-* [Notes](module4/topic_models.pdf)
-* [Analysing topical structure in EU reports](module4/notebook.nb.html)
-
-#### Background
+#### Background Topic models
 * David Blei (2012). "Probabilistic topic models." _Communications of the ACM_, 55(4): 77-84.
 * Blei, David, Andrew Y. Ng, and Michael I. Jordan (2003). "Latent dirichlet allocation." _Journal of Machine Learning Research_ 3: 993-1022.
 * Blei, David (2014) "Build, Compute, Critique, Repeat: Data Analysis with Latent Variable
